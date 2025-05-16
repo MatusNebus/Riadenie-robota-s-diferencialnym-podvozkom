@@ -3,7 +3,7 @@ Toto je moje vypracovanie tretieho zadania z predmetu Robotika. Sú tu riešenia
 Ovládanie je intuitívne, pomocou kláves WASD, číslami 1 až 5 sa menia rýchlosti robota, medzerníkom sa zastavuje, ESC všetko zatvára.
 Tu je nejaký screenshot ako návnada pre váhajúceho čitateľa:
 
-![screenshot](screenshot.png)
+![screenshot](RobZad3.png)
 
 Tu je celé [zadanie](Robzad3.pdf), tak ako sme to od cvičiaceho dostali.
 V celom tomto zadaní vlastne išlo o to precvičiť a zafixovať si vzťahy pre diferenciálny podvozok, a samozrejme sa pri tom človek naučí dosť z Matlabu.
