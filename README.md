@@ -9,7 +9,9 @@ Tu je celé [zadanie](Robzad3.pdf), tak ako sme to od cvičiaceho dostali.
 
 V celom tomto zadaní vlastne išlo o to precvičiť a zafixovať si vzťahy pre diferenciálny podvozok, a samozrejme sa pri tom človek naučí dosť z Matlabu.
 
-Tu sú moje Matlab kódy pre [prvú](zad3_uloha1.m), [druhú](zad3_uloha2.m) a [tretiu](zad3_uloha3.m) úlohu.
+Tu je Môj Matlab kód pre spomínanú [hru](zad3_uloha4.m).
+
+Tu sú moje kódy pre [prvú](zad3_uloha1.m), [druhú](zad3_uloha2.m) a [tretiu](zad3_uloha3.m) úlohu.
 
 Tu je moja [dokumentácia](zad3_dokumentacia.pdf), kde sú moje myšlienkové pochody a proces riešenia podľa mňa celkom pekne zhrnuté.
 
